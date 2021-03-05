@@ -1,0 +1,124 @@
+body{
+  
+    background-image: linear-gradient(rgba(212, 94, 65, 0.048), rgb(123, 45, 161));
+    
+    
+}
+h1{
+    text-align: center;
+   background-image: linear-gradient(black,rgb(69, 69, 100),black);
+    color :white;
+}
+#gawsan{
+    
+    height: 285px;
+background-color:black;
+   
+    
+}
+#gawsan > h1{
+    padding-top: 100px;
+    
+}
+
+
+
+
+section{
+    display:flex;
+    text-align: justify;
+    
+  
+   
+
+}
+.Iwt{
+    
+    width: 300px;
+    height:150px;
+    border:8px solid rgb(112, 84, 112);
+    
+    color:whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    background-color: rgb(82, 178, 190);
+
+    
+}
+.spm,.isdm{
+    width: 300px;
+    height:150px;
+    border: 8px solid rgba(0, 0, 0, 0.59);
+    margin-inline-start: 5px;
+    background-image: linear-gradient(rgb(36, 158, 148),rgba(9, 9, 17, 0));
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color:white;
+    font-weight: bolder;
+    
+}
+.spm i{
+    padding-block-start: 10px;
+    margin-left: 5%;
+}
+.Iwt i{
+    padding-block-start: 10px;
+    margin-left: 5%;
+}
+.isdm{
+    background-color: rgba(184, 107, 118, 0.849);
+}
+.isdm i{
+    padding-block-start: 10px;
+    margin-left: 5%;
+}
+a:hover{
+   color: yellow;
+}
+footer
+{
+    background-color: black;
+    
+    color:rgba(138, 134, 134, 0.842);
+    max-height: 0%;
+}
+
+   
+footer > p{
+    text-align: center;
+    font-weight: bolder;
+   padding-top: 10px;
+}
+.social {
+   text-align: center;
+   color:rgba(134, 115, 115, 0.842);
+  
+}
+.social a {
+   padding-inline: 10px;
+   
+ }
+
+.social a :hover{
+    color: whitesmoke;
+}
+    
+.top{
+    width:103px;
+    height:30px;
+    margin-top: 2%;
+    background-color: black;
+    text-align: justify;
+    
+    
+}
+.top a{
+    font-size: large;
+    color: thistle;
+}
+.top a:hover
+{
+   color:red;
+   background-color: black;
+}
