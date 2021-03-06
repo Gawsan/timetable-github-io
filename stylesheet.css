@@ -108,7 +108,7 @@ footer > p{
     width:103px;
     height:30px;
     margin-top: 8%;
-    background-color: black;
+    
     text-align: justify;
     
     
@@ -120,7 +120,7 @@ footer > p{
 .top a:hover
 {
    color:red;
-   background-color: black;
+   
 }
 footer{
     padding-top: 8px;
