@@ -107,7 +107,7 @@ footer > p{
 .top{
     width:103px;
     height:30px;
-    margin-top: 2%;
+    margin-top: 8%;
     background-color: black;
     text-align: justify;
     
@@ -122,3 +122,22 @@ footer > p{
    color:red;
    background-color: black;
 }
+footer{
+    padding-top: 8px;
+}
+@media only screen and (max-width: 500px) {
+    .isdm,.Iwt,.social,.spm {
+     font-size: 8px;
+     height:80px ;
+    }
+
+    .top{
+        font-size: smaller;
+    }
+    footer{
+        font-size: 10px;
+    }
+    .top{
+        font-size: smaller;
+    }
+  }
