@@ -132,14 +132,14 @@ footer{
     }
 
     .top{
-        font-size: smaller;
+         font-size: 5px;
+      width:200px;
     }
     footer{
         font-size: 10px;
     }
-    .top{
-        font-size: 8px;
-      width:200px;
+  
       
-    }
-  }
+      
+    
+  
